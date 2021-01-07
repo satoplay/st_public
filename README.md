@@ -1,3 +1,3 @@
 # SatoPlay Public Documents
 
-- [Overshoot Changelogs](./overshoot/changelogs.md)
+- [Overshoot Changelogs](./Overshoot/changelogs.md)
