@@ -1,5 +1,7 @@
 # Overshoot Changelogs
 
+![Overshoot](logo.png)
+
 Please be noticed that these texts are **auto-translated** from the Chinese document:
 
 - https://docs.qq.com/doc/DZU1GbWlRbWl5RmxW
