@@ -1,10 +1,8 @@
 # OVT Introduction
 
-![logo](logo.png)
+![OVT](ovt.png)
 
 OVT is the embedded fungible token of the game 'Overshoot'. It currently utilizes DotWallet's badge service as the underlying technique. 
-
-![OVT](ovt.png)
 
 There is no pie chart for OVT distribution, no pre-sale, no initial offering, no developer reserved. Every single unit of OVT will be distributed in-game. It's distributed when the player does something notably in-game, which is used as an effective incentive method. The player can use OVT to purchase our NFT items like weapons, bullets, accessories, both in the in-game market and the platform market.
 
